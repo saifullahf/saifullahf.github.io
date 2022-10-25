@@ -33,6 +33,6 @@ I would try to get the certificates amended if I were you.
       
 Edited
 
-    </div>
-  </body>
+</div>
+</body>
 </html>
