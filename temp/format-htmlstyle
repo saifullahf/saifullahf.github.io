@@ -1,0 +1,6 @@
+<!-- Personal CSS Template -->
+
+<style>
+.container{padding:0.01em 16px}
+.container:after, .container:before{content:"";display:table;clear:both}
+</style>
